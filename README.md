@@ -36,12 +36,6 @@ You can check out a live demo of the Exercise Tracker [here](https://example.com
 5. Start the server: `npm start`
 6. Open the web application in your browser: `http://localhost:3000`
 
-## Screenshots
-
-![Home Page](screenshots/home-page.png)
-![Exercise Log](screenshots/exercise-log.png)
-![Create Exercise](screenshots/create-exercise.png)
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
